@@ -21,6 +21,7 @@ h2{
 p {
     margin: 10px 0 30px;
     color: #000;
+    font-size:18px;
 }
 .image{
     object-fit: cover;
